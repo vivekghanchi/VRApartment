@@ -6,5 +6,5 @@ This is a VR Apartment specially developed for cardboard
 - GoogleVR SDK
 
 <p align="center">
-<img src="Screenshot/screenshot1.jpg" height = "270" width="270"> <img src="Screenshot/Screenshot2.jpg" height = "270" width="270"> 
+<img src="Screenshot/screenshot1.png" height = "270" width="270"> <img src="Screenshot/Screenshot2.png" height = "270" width="270"> 
 </p>
