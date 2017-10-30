@@ -5,6 +5,15 @@ This is a VR Apartment specially developed for cardboard
 - Unity
 - GoogleVR SDK
 
+#### How to run in Unity
+ * [Download the project from github](https://github.com/vivekghanchi/VRApartment)
+ * [Download Unity platform](https://unity3d.com/get-unity/download)
+ * Import this project file into Unity. 
+ 
+#### How to run Project on Android
+* [Download the android application file from github](https://github.com/vivekghanchi/VRApartment/tree/master/APK)
+* Install it on your Android phone.
+
 ## Screenshots
 
 <p align="center">
