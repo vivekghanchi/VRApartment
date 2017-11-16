@@ -19,3 +19,6 @@ This is a Virtual Reality  Apartment specially developed for Google Carboard.
 <p align="center">
 <img src="Screenshot/screenshot1.png" height = "270" width="270"> <img src="Screenshot/Screenshot2.png" height = "270" width="270"> <img src="Screenshot/Screenshot3.png" height = "270" width="270">
 </p>
+
+## Developer
+- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
