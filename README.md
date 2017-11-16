@@ -1,5 +1,5 @@
 # VRApartment
-This is a VR Apartment specially developed for cardboard
+This is a Virtual Reality  Apartment specially developed for Google Carboard.
 
 ## Technology Stack
 - Unity
