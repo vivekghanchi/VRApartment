@@ -20,6 +20,6 @@ This is a Virtual Reality  Apartment specially developed for Google Carboard.
 <img src="Screenshot/screenshot1.png" height = "270" width="270"> <img src="Screenshot/Screenshot2.png" height = "270" width="270"> <img src="Screenshot/Screenshot3.png" height = "270" width="270">
 </p>
 
-## Developer
+# Developer
 
 ##### [Vivek Ghanchi](https://github.com/vivekghanchi)
