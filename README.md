@@ -21,4 +21,5 @@ This is a Virtual Reality  Apartment specially developed for Google Carboard.
 </p>
 
 ## Developer
-- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
+
+##### [Vivek Ghanchi](https://github.com/vivekghanchi)
