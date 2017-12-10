@@ -4,6 +4,8 @@ This is a Virtual Reality  Apartment specially developed for Google Carboard.
 ## Technology Stack
 - Unity
 - GoogleVR SDK
+- C#
+
 
 #### How to run in Unity
  * [Download the project from github](https://github.com/vivekghanchi/VRApartment)
